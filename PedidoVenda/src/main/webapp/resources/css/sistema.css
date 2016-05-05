@@ -60,6 +60,8 @@ h1{
 
 .ajax-status{
 	position: fixed;
-	top: 55px;
-	right: 180px;
+	top: 50px;
+	right: 150px;
+	width: 30px;
+	height: 30px; 
 }
